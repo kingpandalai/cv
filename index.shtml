@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>☃ Lai's Personal Site</title>
+</head>
+<body>
+    <table cellspacing="20px">
+        <tr>
+            <td><img src="images/fake-human-circle-img.png" alt="Dog wearing glasses profile pictures"></td>
+            <td><h1 style="text-align:center">King Panda Lai</h1>
+            <p><em>Full Stack Web Developer</em> for <strong><a href="www.hcd.ca.gov">Housing and Community Development</a></strong></p>
+            <p>I am a Full Stack Web Developer that is currently working on learning back-end development to become a great full stack web developer. I love eating and being lazy with my dog.</p></td>    
+        </tr>
+    </table>
+        <hr>
+        <h3>Books and Teachings</h3>
+        <ul>
+            <li>The Complete iOS App Development Bootcamp</li>
+            <li>The Complete Web Development Bootcamp</li>
+        </ul>
+        <hr>
+        <h3>Work Experience</h3>
+        <table cellspacing="10px">
+            <thead>
+                <tr>
+                <th>Dates</th>
+                <th>Work</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2010-2013</td>
+                    <td>UPS</td>
+                </tr>
+                <tr>
+                    <td>2013-Present</td>
+                    <td>Housing and Community Development</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr>
+        <h3>Skills</h3>
+        <table style="border: 1px solid black" cellspacing="10px">
+            <tr>
+                <td>HTML5</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Photoshop</td>
+                <td>⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+        </table>
+        <hr>
+        <a href="hobbies.shtml">My Hobbies</a>
+        <a href="contactme.shtml">Contact Me</a>
+        <a href="inputs.shtml">Inputs</a>
+</body>
+</html>
